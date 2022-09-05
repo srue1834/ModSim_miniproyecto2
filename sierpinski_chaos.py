@@ -11,7 +11,7 @@ def p_sierpinski(p1, p2, p3):
     return (x, y)
 
 p1 = (0, 0)
-p2 = (1, 0)
+p2 = (4, 0)
 p3 = (p2[0]/2, p2[0]/4) # 0.5, 0.25
 
 points = [p1, p2, p3]
